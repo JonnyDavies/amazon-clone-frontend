@@ -1,8 +1,12 @@
 # Amazon Clone in React, Tailwind CSS & Redux
 
-![amazon_clone_v5](https://user-images.githubusercontent.com/17878339/230744566-7aa9a5b7-d1b4-446c-8d32-d81514aa066d.png)
+![amazon_clone_v6](https://user-images.githubusercontent.com/17878339/231386523-1b0f7bb9-b83d-4a3e-a1bf-12405ebebbd2.png)
 
 This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
+
+## YouTube
+
+[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
 
 ## Features
 
